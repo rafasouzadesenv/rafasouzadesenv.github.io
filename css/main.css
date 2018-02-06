@@ -180,11 +180,6 @@ body > section,
   
 }
 
-@media only screen and (max-width: 500px) {
-  .navbar-brand h2 {
-    font-size: 19px;
-  }
-}
 
 .navbar-brand h2 span {
   font-family: 'Blacklist'; 
@@ -192,6 +187,13 @@ body > section,
   color: #fff;
   
 }
+
+@media only screen and (max-width: 500px) {
+  .navbar-brand h2 {
+    font-size: 19px;
+  }
+}
+
 
 
 
