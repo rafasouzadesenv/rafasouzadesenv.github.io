@@ -182,7 +182,7 @@ body > section,
 
 @media only screen and (max-width: 500px) {
   .navbar-brand h2 {
-    font-size: px;
+    font-size: 19px;
   }
 }
 
